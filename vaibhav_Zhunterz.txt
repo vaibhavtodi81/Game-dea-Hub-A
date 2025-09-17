@@ -1,0 +1,28 @@
+# Game Title
+Zhunterz
+
+## Concept
+a new open world story type game based on pre to post apocalyptic world where player need to gather resources and make shelter to survive.
+player need to save his progress and game will have multiple endings and will be based on user decission of plays
+
+## Gameplay
+survive,gather resources, gather arms and ammunation and complete the game's story to reveal the hidden secrets of the labs
+
+## Unique Features
+first its story type keeping user engaged
+next is the twist and unexpected characters buildups
+and last is the satisfaction of completing each level after grinding for every level 
+
+## Target Audience
+teenagers and users between 20 to 30 years of age
+
+## Art Style & Theme
+a dark and spooky theme with fogs and clouds rendered 
+
+## Inspiration
+resident evil
+silent hill 2
+last of us 1 and 2
+
+## Tools or Platforms (Optional)
+i want to build it for pc as it gives more user emmersions
